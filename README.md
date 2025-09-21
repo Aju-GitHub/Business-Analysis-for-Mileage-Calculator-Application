@@ -3,9 +3,6 @@ A Business Analysis project to improve a mileage calculation application for Ind
 
 This project is a user-friendly application designed to help vehicle owners accurately estimate fuel consumption and related costs for planned trips. It supports input of vehicle make, model, travel distance, and local fuel prices to generate detailed cost and fuel quantity calculations.
 
-User Sentiment Analysis
-This project applies LSTM-based deep learning to analyze user sentiments from airline reviews. It demonstrates how sentiment analysis can be used from different perspectives — business, cybersecurity, and customer support.
-
 Repository Structure:
 
 Mileage-Calculator-Application/
