@@ -37,3 +37,13 @@ Programming Language: Python
 User Interfaces: Web-based UI, Command-line interface
 Project Management: Jira, Confluence
 Documentation and Modeling: LaTeX, Lucidchart, draw.io
+
+Rights and Usage:
+
+All reports, documentation, and related artifacts are the intellectual property of Ajmal M S.
+
+Shared resources are provided solely as a record of my involvement, competencies, and learning outcomes.
+
+No content from this repository may be copied, altered, shared, or reused without explicit permission.
+
+© Ajmal M S, 2025
