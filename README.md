@@ -10,9 +10,9 @@ Repository Structure:
 
 Mileage-Calculator-Application/
 
-/- Jira Board - png
-
 /- BRD_for_Mileage_Calculator_for_Indian_Vehicles - pdf
+
+/- JIRA Board - png
 
 /- README.md - Documentation
 
